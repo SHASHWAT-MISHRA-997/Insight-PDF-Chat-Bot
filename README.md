@@ -38,7 +38,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/Shashwat876/InsightBot.git
+git clone https://github.com/SHASHWAT-MISHRA-997/InsightBot.git
 cd InsightBot
 Create a Virtual Environment (Optional but recommended):
 
