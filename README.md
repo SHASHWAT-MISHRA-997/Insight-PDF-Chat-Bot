@@ -9,8 +9,9 @@ Ask Questions: After uploading PDFs, users can ask questions related to the cont
 API Key Support: Supports OpenAI's GPT models for text generation.
 PDF Analytics: Enables word count, character count and sentiment analysis using VADER.
 Chat History: Displays the conversation history in an intuitive format.
-📂 Demo Video
-Demo video link (optional)
+
+# 📂 Demo Video
+[Demo video link](https://www.linkedin.com/posts/sm980_excited-to-share-my-another-project-based-activity-7243682941816520704-IQwY?utm_source=share&utm_medium=member_desktop)
 
 # 🛠️ Technologies Used
 
@@ -73,7 +74,7 @@ View the Conversation:
 Ensure that your OpenAI API key remains confidential and avoid sharing it publicly.
 
 # 🤝 Contributions
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page to report any issues or request new features.
+Contributions, issues and feature requests are welcome! Feel free to check the issues page to report any issues or request new features.
 
 # 🧑‍💻 Author
 Shashwat Mishra
