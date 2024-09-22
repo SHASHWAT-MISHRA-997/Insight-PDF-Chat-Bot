@@ -7,6 +7,7 @@ from textFunctions import get_text_chunks
 from vizFunctions import vaders_barchart
 from htmlTemplates import css
 from PyPDF2 import PdfReader
+import tensorflow
 
 # Initialize tokenizer
 tokenizer = GPT2Tokenizer.from_pretrained("gpt2-large")
