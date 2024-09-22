@@ -196,7 +196,7 @@ def main():
     st.markdown(css, unsafe_allow_html=True)
     init_ses_states()
 
-    st.title("📚 InsightBot")
+    st.title("📚 Document-Insight-Bot")
     st.markdown("""
         <hr style="border: 1px solid gray;"/>
         <footer>
