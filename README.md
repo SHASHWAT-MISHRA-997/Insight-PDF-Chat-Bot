@@ -11,10 +11,13 @@ PDF Analytics: Enables word count, character count and sentiment analysis using 
 Chat History: Displays the conversation history in an intuitive format.
 
 # 📂 Demo Video
+
 [Demo video link](https://www.linkedin.com/posts/sm980_excited-to-share-my-another-project-based-activity-7243682941816520704-IQwY?utm_source=share&utm_medium=member_desktop)
 
-# 📂 Image : 
+# 📂 Image 
+
 [Image](https://www.linkedin.com/feed/update/urn:li:ugcPost:7243682781694726144?commentUrn=urn%3Ali%3Acomment%3A%28ugcPost%3A7243682781694726144%2C7243689240503439360%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287243689240503439360%2Curn%3Ali%3AugcPost%3A7243682781694726144%29)
+
 # 🛠️ Technologies Used
 
 Python
@@ -26,6 +29,7 @@ Hugging Face Models (optional, to be added later).
 Werkzeug for secure file handling.
 
 # 📝 Installation
+
 Prerequisites:
 Python 3.7+
 A valid OpenAI API key (if using OpenAI models)
@@ -51,7 +55,9 @@ Set Up API Keys:
 
 Obtain your OpenAI API key from here.
 Add it directly in the application or in the sidebar when running the app.
-🎮 Usage
+
+# 🎮 Usage
+
 Run the Application:
 
 bash
@@ -73,15 +79,19 @@ View the Conversation:
 
 
 # 🛡️ Security
+
 Ensure that your OpenAI API key remains confidential and avoid sharing it publicly.
 
 # 🤝 Contributions
+
 Contributions, issues and feature requests are welcome! Feel free to check the issues page to report any issues or request new features.
 
 # 🧑‍💻 Author
+
 Shashwat Mishra
 [LinkedIn](https://www.linkedin.com/in/sm980/)
 
 # 📜 License
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
