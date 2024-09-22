@@ -7,7 +7,7 @@ Welcome to InsightBot an AI-powered tool that allows users to upload and interac
 Upload PDFs: Users can upload one or more PDF documents to the app.
 Ask Questions: After uploading PDFs, users can ask questions related to the content of the documents.
 API Key Support: Supports OpenAI's GPT models for text generation.
-PDF Analytics: Enables word count, character count, and sentiment analysis using VADER.
+PDF Analytics: Enables word count, character count and sentiment analysis using VADER.
 Chat History: Displays the conversation history in an intuitive format.
 📂 Demo Video
 Demo video link (optional)
@@ -61,7 +61,7 @@ Upload one or more PDF files.
 Enable PDF Analytics:
 
 Navigate to PDF Analytics Settings.
-Enable options like Word Count, Character Count, and Sentiment Analysis.
+Enable options like Word Count, Character Count and Sentiment Analysis.
 Ask Questions:
 
 Type your question in the input box and click "Submit".
