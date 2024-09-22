@@ -77,7 +77,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 # 🧑‍💻 Author
 Shashwat Mishra
-LinkedIn
+[LinkedIn](https://www.linkedin.com/in/sm980/)
 
 # 📜 License
 This project is licensed under the MIT License - see the LICENSE file for details.
